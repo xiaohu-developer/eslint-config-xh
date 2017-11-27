@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-xh",
+  "version": "1.0.0",
+  "description": "eslint rules for xiaohu",
+  "main": "index.js",
+  "repository": "git@github.com:xiaohu-developer/eslint-config-xh.git",
+  "author": "BigMurry <hhdiao@siom.ac.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-standard-jsx": "^4.0.2"
+  }
+}
